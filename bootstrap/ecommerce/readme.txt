@@ -1,5 +1,5 @@
 *************** NEED ******************
-Xammp / Wammp
+Wammp  /  Xammp
 Composer
 NodeJS
 Laravel
